@@ -1,3 +1,4 @@
+package Classwork;
 // suffix sum
 
 public class q5 {
